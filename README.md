@@ -9,4 +9,4 @@
 
 ### Powershell Scripts
 [SiteProtectedDataRename](powershell_projects/DataRename/SiteCodeProtectedDataRename.ps1) - Script written to automate  a task of allowing certain data files and folders to me changed during client change of ownership jobs. 
---> [SupportingDocument.txt](powershell_projects/DataRename/Supporting Document.txt) - List of used error codes explaining why certain steps could have failed.
+[SupportingDocument.txt](powershell_projects/DataRename/Supporting Document.txt) - List of used error codes explaining why certain steps could have failed.
