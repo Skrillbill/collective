@@ -8,4 +8,4 @@
 
 
 ### Powershell Scripts
-[SiteProtectedDataRename](python_projects/speedreader_v2.py) - Script written to automate  a task of allowing certain data files and folders to me changed during client change of ownership jobs. 
+[SiteProtectedDataRename](powershell_projects/DataRename/SiteCodeProtectedDataRename.ps1) - Script written to automate  a task of allowing certain data files and folders to me changed during client change of ownership jobs. 
